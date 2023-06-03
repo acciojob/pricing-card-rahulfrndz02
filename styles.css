@@ -1,4 +1,20 @@
 /*  your css code here. If applicable */
 .section{
-	width:80%;
+	width:60%;
+	border:1px solid black;
+	text-align: center;
 }
+.button{
+	background: red;
+	border-radius: 15px;
+	padding:22px;
+	font-size:28px;
+	color:white;
+	font-weight: 600;
+	box-shadow: white;
+}
+
+
+
+
+
